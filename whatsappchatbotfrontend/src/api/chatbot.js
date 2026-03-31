@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = 'https://whatsappchatbot-zo4d.onrender.com'
+const BASE_URL = 'https://whatsappchatbot-4otz.onrender.com'
 
 const api = axios.create({
   baseURL: BASE_URL,
